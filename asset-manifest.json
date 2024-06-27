@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/prostayuri1k.github.io/pagination-infiniteScroll/static/css/main.dfe21d49.css",
-    "main.js": "/prostayuri1k.github.io/pagination-infiniteScroll/static/js/main.2279507d.js",
-    "index.html": "/prostayuri1k.github.io/pagination-infiniteScroll/index.html",
-    "main.dfe21d49.css.map": "/prostayuri1k.github.io/pagination-infiniteScroll/static/css/main.dfe21d49.css.map",
-    "main.2279507d.js.map": "/prostayuri1k.github.io/pagination-infiniteScroll/static/js/main.2279507d.js.map"
+    "main.css": "/pagination-infiniteScroll/static/css/main.dfe21d49.css",
+    "main.js": "/pagination-infiniteScroll/static/js/main.2279507d.js",
+    "index.html": "/pagination-infiniteScroll/index.html",
+    "main.dfe21d49.css.map": "/pagination-infiniteScroll/static/css/main.dfe21d49.css.map",
+    "main.2279507d.js.map": "/pagination-infiniteScroll/static/js/main.2279507d.js.map"
   },
   "entrypoints": [
     "static/css/main.dfe21d49.css",

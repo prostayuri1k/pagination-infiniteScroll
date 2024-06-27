@@ -5,7 +5,7 @@ import {HomeFilled} from "@ant-design/icons";
 const HomeLink = () => {
     return (
         <div className='p-8'>
-            <Link to='/'><HomeFilled className='text-3xl hover:scale-125 transition duration-300'/></Link>
+            <Link to='/pagination-infiniteScroll'><HomeFilled className='text-3xl hover:scale-125 transition duration-300'/></Link>
         </div>
     );
 };

@@ -5,8 +5,8 @@ import DynamicScroll from "../Pages/DynamicScroll/DynamicScroll";
 
 export const router = createBrowserRouter(
     [
-        {path: '/', element: <Home/>},
-        {path: 'pagination', element: <PaginationPage/>},
-        {path: 'infiniteScroll', element: <DynamicScroll/>},
+        {path: '/pagination-infiniteScroll', element: <Home/>},
+        {path: '/pagination-infiniteScroll/pagination', element: <PaginationPage/>},
+        {path: '/pagination-infiniteScroll/infiniteScroll', element: <DynamicScroll/>},
     ]
 )

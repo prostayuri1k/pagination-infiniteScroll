@@ -1,8 +1,8 @@
 {
   "name": "pagination",
   "version": "0.1.0",
-  "homepage": "https://github.com/prostayuri1k.github.io/pagination-infiniteScroll",
   "private": true,
+  "homepage": "https://prostayuri1k.github.io/pagination-infiniteScroll/",
   "dependencies": {
     "@ant-design/icons": "^5.3.7",
     "@testing-library/jest-dom": "^5.17.0",

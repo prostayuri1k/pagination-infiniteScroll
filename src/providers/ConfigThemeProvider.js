@@ -1,6 +1,6 @@
 import {ConfigProvider} from "antd";
 
-export const ConfigThemeProvider  = ({children}) => {
+export const ConfigThemeProvider = ({children}) => {
     return (
         <ConfigProvider
             theme={{

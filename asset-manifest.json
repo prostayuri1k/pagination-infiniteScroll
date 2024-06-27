@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prostayuri1k/pagination-infiniteScroll.git/static/css/main.dfe21d49.css",
+    "main.js": "/prostayuri1k/pagination-infiniteScroll.git/static/js/main.2279507d.js",
+    "index.html": "/prostayuri1k/pagination-infiniteScroll.git/index.html",
+    "main.dfe21d49.css.map": "/prostayuri1k/pagination-infiniteScroll.git/static/css/main.dfe21d49.css.map",
+    "main.2279507d.js.map": "/prostayuri1k/pagination-infiniteScroll.git/static/js/main.2279507d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfe21d49.css",
+    "static/js/main.2279507d.js"
+  ]
+}
